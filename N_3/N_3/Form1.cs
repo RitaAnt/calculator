@@ -109,14 +109,6 @@ namespace N_3
             op[kostil2] = '^';
             kostil2++;
         }
-        private void button18_Click(object sender, EventArgs e)
-        {
-            //ckoba
-        }
-        private void button19_Click(object sender, EventArgs e)
-        {
-            //ckoba
-        }
         private void button20_Click(object sender, EventArgs e)
         {
             nAdd();
