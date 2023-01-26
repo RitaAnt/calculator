@@ -1,0 +1,32 @@
+C:\Users\Lenovo\OneDrive\Рабочий стол\shpatad\N_3\N_3\bin\Debug\N_3.exe.config
+C:\Users\Lenovo\OneDrive\Рабочий стол\shpatad\N_3\N_3\bin\Debug\N_3.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\shpatad\N_3\N_3\bin\Debug\N_3.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\shpatad\N_3\N_3\obj\Debug\N_3.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\shpatad\N_3\N_3\obj\Debug\N_3.Form1.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\shpatad\N_3\N_3\obj\Debug\N_3.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\shpatad\N_3\N_3\obj\Debug\N_3.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\shpatad\N_3\N_3\obj\Debug\N_3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\shpatad\N_3\N_3\obj\Debug\N_3.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\shpatad\N_3\N_3\obj\Debug\N_3.pdb
+C:\Users\Рита\Desktop\рс\мму_1\мудл_8\мудл_7\мудл_6\мудл_5\мудл_4\shpatad\N_3\N_3\bin\Debug\N_3.exe.config
+C:\Users\Рита\Desktop\рс\мму_1\мудл_8\мудл_7\мудл_6\мудл_5\мудл_4\shpatad\N_3\N_3\bin\Debug\N_3.exe
+C:\Users\Рита\Desktop\рс\мму_1\мудл_8\мудл_7\мудл_6\мудл_5\мудл_4\shpatad\N_3\N_3\bin\Debug\N_3.pdb
+C:\Users\Рита\Desktop\рс\мму_1\мудл_8\мудл_7\мудл_6\мудл_5\мудл_4\shpatad\N_3\N_3\obj\Debug\N_3.csproj.AssemblyReference.cache
+C:\Users\Рита\Desktop\рс\мму_1\мудл_8\мудл_7\мудл_6\мудл_5\мудл_4\shpatad\N_3\N_3\obj\Debug\N_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Рита\Desktop\рс\мму_1\мудл_8\мудл_7\мудл_6\мудл_5\мудл_4\shpatad\N_3\N_3\obj\Debug\N_3.Form1.resources
+C:\Users\Рита\Desktop\рс\мму_1\мудл_8\мудл_7\мудл_6\мудл_5\мудл_4\shpatad\N_3\N_3\obj\Debug\N_3.Properties.Resources.resources
+C:\Users\Рита\Desktop\рс\мму_1\мудл_8\мудл_7\мудл_6\мудл_5\мудл_4\shpatad\N_3\N_3\obj\Debug\N_3.csproj.GenerateResource.cache
+C:\Users\Рита\Desktop\рс\мму_1\мудл_8\мудл_7\мудл_6\мудл_5\мудл_4\shpatad\N_3\N_3\obj\Debug\N_3.csproj.CoreCompileInputs.cache
+C:\Users\Рита\Desktop\рс\мму_1\мудл_8\мудл_7\мудл_6\мудл_5\мудл_4\shpatad\N_3\N_3\obj\Debug\N_3.exe
+C:\Users\Рита\Desktop\рс\мму_1\мудл_8\мудл_7\мудл_6\мудл_5\мудл_4\shpatad\N_3\N_3\obj\Debug\N_3.pdb
+C:\Users\User\Desktop\мму_1\мудл_8\мудл_7\мудл_6\мудл_5\мудл_4\shpatad\N_3\N_3\bin\Debug\N_3.exe.config
+C:\Users\User\Desktop\мму_1\мудл_8\мудл_7\мудл_6\мудл_5\мудл_4\shpatad\N_3\N_3\bin\Debug\N_3.exe
+C:\Users\User\Desktop\мму_1\мудл_8\мудл_7\мудл_6\мудл_5\мудл_4\shpatad\N_3\N_3\bin\Debug\N_3.pdb
+C:\Users\User\Desktop\мму_1\мудл_8\мудл_7\мудл_6\мудл_5\мудл_4\shpatad\N_3\N_3\obj\Debug\N_3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\мму_1\мудл_8\мудл_7\мудл_6\мудл_5\мудл_4\shpatad\N_3\N_3\obj\Debug\N_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\мму_1\мудл_8\мудл_7\мудл_6\мудл_5\мудл_4\shpatad\N_3\N_3\obj\Debug\N_3.Form1.resources
+C:\Users\User\Desktop\мму_1\мудл_8\мудл_7\мудл_6\мудл_5\мудл_4\shpatad\N_3\N_3\obj\Debug\N_3.Properties.Resources.resources
+C:\Users\User\Desktop\мму_1\мудл_8\мудл_7\мудл_6\мудл_5\мудл_4\shpatad\N_3\N_3\obj\Debug\N_3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\мму_1\мудл_8\мудл_7\мудл_6\мудл_5\мудл_4\shpatad\N_3\N_3\obj\Debug\N_3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\мму_1\мудл_8\мудл_7\мудл_6\мудл_5\мудл_4\shpatad\N_3\N_3\obj\Debug\N_3.exe
+C:\Users\User\Desktop\мму_1\мудл_8\мудл_7\мудл_6\мудл_5\мудл_4\shpatad\N_3\N_3\obj\Debug\N_3.pdb
